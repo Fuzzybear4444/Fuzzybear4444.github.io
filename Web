@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Make a Wish Ad</title>
+        <style>
+            
+            .headline {
+                position:absolute;
+                left: 60px;
+            }
+            #headline {
+                position:absolute;
+                top:120px;
+                left: 120px;
+            }
+            
+            .you {
+                color:rgb(255, 0, 0);
+            }
+            
+            p{
+                position:absolute;
+                top:160px;
+                left:80px;
+            }
+            a{
+                text-decoration:none;
+                color:rgb(255, 0, 0);
+            }
+            
+        </style>
+    </head>
+    <body>
+     <img class = "headline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MAW_Standard_RGB.png/512px-MAW_Standard_RGB.png">
+     <h1 id = "headline">Make-A-Wish needs <strong> <span class         = "you"> <a href = "https://wish.org/volunteer"> YOU! </a></span> </strong> </h1>
+     <p> 
+        
+     </p>
+        
+        
+    </body>
+</html>
